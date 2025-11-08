@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="Localhost | GitHub vh8" type="AUTO_DETECTED" />
+      <mapping pattern="Localhost | GitHub" type="AUTO_DETECTED" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>

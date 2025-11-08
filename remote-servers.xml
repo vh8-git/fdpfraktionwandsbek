@@ -1,0 +1,18 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="test" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Desktop/vhD/vhD Kunden/Decourart - Kathrin Henning-Dolle/20240920 DA WEBsite &quot;decourart.de&quot;/DA WEBsite aktueller Stand/decourart.de/public" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
