@@ -1,0 +1,28 @@
+# IDE / Editor
+.idea/
+.vscode/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+composer.lock
+
+# Lokale Konfigurationsdateien
+.env
+.env.local
+.env.*.local
+
+# Cache, Logs, temporäre Dateien
+*.log
+/tmp/
+/cache/
+/storage/
+
+#einzelne Datein
+*.zip
+*.sql
+*.psd
+*.docx
