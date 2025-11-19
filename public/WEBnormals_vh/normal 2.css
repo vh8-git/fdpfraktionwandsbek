@@ -1,0 +1,37 @@
+html{
+    font-size: 16px;
+    }
+
+body {
+    line-height: 1.5em;
+}
+a, p {
+    color: rgb(0,0,0); color: rgba(0,0,0,1);
+}
+
+.clearfix:after {
+    display: block;
+    clear: both;
+    content: "Per CSS eingefügte Clear-Box für float";
+    color: blue !Important;
+    height: 0;
+    visibility: hidden;
+}
+
+#background-wrapper {
+    position: relative;
+    max-height: 768px; 
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: rgba(200,200,200,.2);
+}
+
+#wrapper {
+    position: relative;
+    max-width: 1280px;
+    height: 100vh;
+    max-height: 768px; max-height: 48rem;
+    min-height: 400px; min-height: 36rem;
+    width: 100%;
+    margin: 0 auto;
+}

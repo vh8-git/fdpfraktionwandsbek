@@ -1,0 +1,4 @@
+//Starten des local Host im Terminal
+
+/opt/homebrew/bin/php -S localhost:3012 -t "/Users/andreasvonhacht/Desktop/vhD/vhD Kunden/FDP-Fraktion Wandsbek/FDP Fraktion Wandsbek WEBsite/www.fdpfraktionwandsbek.de aktuellerStand/public"
+
